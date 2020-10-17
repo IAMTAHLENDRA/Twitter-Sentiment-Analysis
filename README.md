@@ -1,4 +1,5 @@
 # Sentiment Analysis Using Real-time Tweets
+
 This program is written using python 3.6.8
 
 The project contribute two functionalities as listed below:
@@ -28,3 +29,7 @@ First of all login from your Twitter account and goto Twitter Apps. Create a new
 ### Output
 * Main.py - You will be propted to enter your sentence. Type your sentence and hit enter, you will see the sentiment polarity of your sentence.
 * twitter.py - You will be prompted to enter the keyword/hashtag you want to analyze and the number of tweets you want to analyze(*Optional* Default value is 5). After typing keyword, hit enter and you will see the overall sentiment polarity of tweets and polarity of individual tweets too.
+
+
+Thankyou!
+Happy Coding

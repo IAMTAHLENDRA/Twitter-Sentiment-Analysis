@@ -16,7 +16,7 @@ Sentiment Analysis is the process of determining whether a piece of writing is p
 * Good internet connection (For twitter.py)
 
 ### Additional requirements for twitter.py
-First of all login from your Twitter account and goto Twitter Apps. Create a new app and goto Keys and access tokens and copy `Consumer Key`, `Consumer Secret`, `Access Token` and `Access Token Secret`. We will need them later.
+First of all login from your Twitter account and goto Twitter App. Create a new app and goto Keys, access tokens and copy `Consumer Key`, `Consumer Secret`, `Access Token` and `Access Token Secret`. We will need them later.
 
 ## Run on your local machine
 * Navigate to the directory containing the files and run
@@ -27,9 +27,9 @@ First of all login from your Twitter account and goto Twitter Apps. Create a new
 > python twitter.py
 
 ### Output
-* Main.py - You will be propted to enter your sentence. Type your sentence and hit enter, you will see the sentiment polarity of your sentence.
-* twitter.py - You will be prompted to enter the keyword/hashtag you want to analyze and the number of tweets you want to analyze(*Optional* Default value is 5). After typing keyword, hit enter and you will see the overall sentiment polarity of tweets and polarity of individual tweets too.
+* Main.py - You will be propted to enter your sentence . Type your sentence and hit enter, you will see the sentiment polarity of your sentence.
+* twitter.py - You will be prompted to enter the keyword/hashtag you want to analyze and the number of tweets you want to analyze (*Optional* Default value is 5). After typing keyword, hit enter and you will see the overall sentiment polarity of tweets and polarity of individual tweets too.
 
 
 Thankyou!
-Happy Coding
+Happy Coding.
